@@ -1,0 +1,6 @@
+german for homepage: <script src="//d.bablic.com/snippet/5e68d92d279d870001f4c163.js?version=3.9"></script>
+german for stoee: <script src="//d.bablic.com/snippet/5e68dbd8279d870001f4c477.js?version=3.9"></script>
+
+german for certifictae: <script src="//d.bablic.com/snippet/5e68dc8b279d870001f4c559.js?version=3.9"></script>
+
+german for id: <script src="//d.bablic.com/snippet/5e68dcf8279d870001f4c60a.js?version=3.9"></script>
