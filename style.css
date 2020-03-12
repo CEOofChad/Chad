@@ -1,0 +1,15 @@
+marquee{
+    font-size: 100px;
+    font-weight: 800;
+    color: #8ebf42;
+    font-family: "Comic Sans MS";
+    }
+    
+
+body {
+    background-image: url('');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-shadow: 2px 2px #FF69B4;
+}
